@@ -17,7 +17,7 @@ Each entry in the JSON file includes:
 
 ### Example
 
-\`\`\`json
+```json
 {
     "France": {
         "UTC-10:00": ["Society Islands", "Tuamotus", "Austral Islands"],
@@ -34,7 +34,8 @@ Each entry in the JSON file includes:
         "UTC+12:00": ["Wallis and Futuna"]
     }
 }
-\`\`\`
+```
+
 
 ### Countries Included
 
